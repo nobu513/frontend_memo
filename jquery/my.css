@@ -1,0 +1,23 @@
+.header {
+  height: 5em;
+  background-color: cadetblue;
+}
+
+.main {
+  height: 40em;
+  background-color: azure;
+}
+
+.footer {
+  height: 5em;
+  background-color: darkblue;
+  color: white;
+}
+
+.greeting {
+  color: red;
+}
+
+.greened {
+  color: green !important;
+}
